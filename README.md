@@ -1,2 +1,3 @@
 # vansh-demo
-This is my first Git RepositoryAuthor - Vanshika Tiwari
+This is my first Git Repository.
+Author - Vanshika Tiwari
